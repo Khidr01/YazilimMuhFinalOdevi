@@ -1,2 +1,21 @@
 Yazılım Mühendisliği Oryantasyo'nun final ödevi için:
+
 https://youtu.be/xIcjE21kKhE
+
+-----------
+
+Bu video'da 10 adet java dilinde soru çözüldü.
+Çözülen sorular şunlar:
+1- Asal sayı (Bir sayının asal sayı olup olmadığını kontrol eden bir uygulama).
+2- Çarpanlara ayırma algoritması (Bir sayının çarpanlarını bulup ekrana yazdıran bir program).
+3- Dizi toplama (Dizi'nin uzunluğunu belirleyip dizi'nin elmanlarını toplayan ve son sonucu veren bir program).
+4- Dosya işlemleri (Bu uygulamada İ/O işlemlerine daha fazla odaklanmak için, dosya işlemleri gerçekleştirildi. Dosya açma, yazma, ve kapatma gibi).
+5- En büyük sayı (Bir dizide bulunan en büyük sayı).
+6- Karakter sayma (Bir cümle karakterlerin sayısı).
+7- Not hesaplama (Vize ve sınav notu ile ortalamyı hesaplayan bir program).
+8- Şifre oluşturucu (Şifre oluşturan basit bir program).
+9- Ters çevirme (Bir kelimenin tersini çevirme).
+10- Üs hesaplama (Bir sayının üssünü hesaplayan bir uygulama).
+
+-----------
+Saygılarım.
